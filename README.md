@@ -8,4 +8,3 @@
 
 <img width="1889" height="637" alt="image" src="https://github.com/user-attachments/assets/7386b66e-9085-4ca1-ad89-657daa4c2ac0" />
 
-<img width="282" height="322" alt="image" src="https://github.com/user-attachments/assets/26b9eb2b-aa25-4cd9-ab18-d5008b8e98f8" />
